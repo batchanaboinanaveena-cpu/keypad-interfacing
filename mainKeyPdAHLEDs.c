@@ -3,7 +3,7 @@
 #include"types.h"
 #include"defines.h"
 #include"keyPd.h"
-#define LEDS 0xff//P0/0-P0.7
+#define LEDS 0xff//P0.0-P0.7
 
 int main()
 {
@@ -21,5 +21,6 @@ int main()
 	}
 	
 }
+
 
 
